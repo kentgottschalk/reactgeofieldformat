@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\geolocation\Plugin\Field\FieldFormatter;
+namespace Drupal\reactgeofieldformat\Plugin\Field\FieldFormatter;
 
 use Drupal\Core\Field\FieldItemListInterface;
 use Drupal\Core\Field\FormatterBase;
