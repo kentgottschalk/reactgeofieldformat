@@ -9,9 +9,9 @@ use Drupal\Core\Field\FormatterBase;
  * Plugin implementation of the 'geolocation_latlng' formatter.
  *
  * @FieldFormatter(
- *   id = "geolocation_latlng",
+ *   id = "react_geolocation_latlng",
  *   module = "geolocation",
- *   label = @Translation("Geolocation Lat/Lng"),
+ *   label = @Translation("React Geolocation Lat/Lng"),
  *   field_types = {
  *     "geolocation"
  *   }
