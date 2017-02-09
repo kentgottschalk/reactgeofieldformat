@@ -1,0 +1,5 @@
+name: React Geolocation Field Formatter
+description: 'Custom Formatter for Geolocation Fields'
+package: Fields
+type: module
+core: 8.x
